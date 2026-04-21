@@ -2,9 +2,9 @@
 # Niveau débutant: Modules 5-7 (Docker concepts, Docker practice, Docker Compose)
 # Votre tâche: Compléter ce fichier Dockerfile pour conteneuriser l'application
 
-# ========================================================================
+# =======================================================================
 # TÂCHE 1: Image de base
-# ========================================================================
+# =======================================================================
 # Qu'est-ce qu'une image de base? (Module 5: Principes Docker)
 # Une image de base contient le système d'exploitation et les outils de base
 # 
