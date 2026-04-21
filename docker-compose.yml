@@ -32,7 +32,7 @@ services:
 
     # Nom du conteneur (pour faciliter les tests/debug)
     # Conseil: Utilisez votre nom pour personnaliser
-    container_name: expense-tracker-nodejs-Peterson-CHERY        # Tâche:  ou expense-tracker-[votre nom sans esoace ou vos initiales]
+    container_name: expense-tracker-nodejs-peterson-chery        # Tâche:  ou expense-tracker-[votre nom sans esoace ou vos initiales]
 
     # Charger les variables d'environnement depuis .env.docker
     # En local: Docker Compose charge depuis .env.docker
@@ -84,7 +84,7 @@ services:
                                # Conseil: Cherchez sur hub.docker.com
 
     # Nom du conteneur
-    container_name: expense-tracker-postgresql-Peterson-CHERY         # Tâche: Nommez le conteneur PostgreSQL
+    container_name: expense-tracker-postgresql-peterson-chery         # Tâche: Nommez le conteneur PostgreSQL
 
     # Configuration PostgreSQL
     environment:
