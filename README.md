@@ -2,7 +2,7 @@
 ### Projet Capstone DevOps
 
 Application Node.js pour gérer et suivre les dépenses personnelles.
-
+# Peterson CHERY
 ---
 
 ## 🚀 Installation Locale
