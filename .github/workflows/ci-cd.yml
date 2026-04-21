@@ -112,7 +112,7 @@ jobs:
       # -t [nom:version] = Nommer et versionner l'image
       # . = Utiliser le répertoire courant comme contexte de build
       - name: Build Docker image
-        run: docker build -t expense-tracker-nodejs:Peterson-CHERY . # Tâche: Quelle commande pour construire l'image? 
+        run: docker build -t expense-tracker-nodejs:peterson-chery . # Tâche: Quelle commande pour construire l'image? 
          
       
       
@@ -128,7 +128,7 @@ jobs:
       #   --name = Identifier le conteneur
       # Module 6: Docker — Exécuter des conteneurs
       - name: Start Docker container
-        run: docker run -d -p 3000:3000 --name test-expense expense-tracker-nodejs:Peterson-CHERY # Tâche: Quelle commande pour lancer le conteneur? 
+        run: docker run -d -p 3000:3000 --name test-expense expense-tracker-nodejs:peterson-chery # Tâche: Quelle commande pour lancer le conteneur? 
       
       
       # ====================================================================
