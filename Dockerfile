@@ -36,9 +36,9 @@ COPY package*.json ./
 # Conseil: Lequel utiliser dans Docker pour résultats déterministes?
 RUN npm ci
 
-# ========================================================================
+# =======================================================================
 # TÂCHE 5: Copier le code source de l'application
-# ========================================================================
+# =======================================================================
 # Quels fichiers copier dans le conteneur?
 # Conseil: Quels dossiers contiennent le code applicatif?
 #
